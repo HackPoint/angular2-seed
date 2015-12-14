@@ -1,0 +1,11 @@
+{
+  "name": "angular2-seed",
+  "scripts": {
+  },
+  "env": {
+    "PORT": "8080"
+  },
+  "addons": [
+
+  ]
+}
